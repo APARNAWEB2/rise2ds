@@ -63,4 +63,4 @@ jobs:
           app-name: 'makkinawebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CEDDE9AE7C74A99B05059839CEC0819 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_295C773735E44DF787FA848BFCC5ED79 }}
